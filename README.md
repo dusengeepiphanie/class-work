@@ -1,2 +1,2 @@
 # class-work
-work of class
+work of class and out of it
